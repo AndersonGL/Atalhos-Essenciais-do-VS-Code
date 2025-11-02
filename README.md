@@ -59,7 +59,7 @@ Ctrl + Shift + X - Abre as extensões do vscode
 ## 🧹 Formatação
 
 - **Auto indentação / organizar código**  
-  `Alt + Shift + S`
+  `Alt + Shift + F`
 
 ---
 
