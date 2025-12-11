@@ -26,35 +26,7 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 
 ---
 
-Alt + Shift + F – Formata o código inteiro
 
-Ctrl + \ – Divide o editor em painéis
-
-Ctrl + Shift + ‘ – Abre o terminal integrado
-
-Alt + ↑ / ↓ – Move a linha atual
-
-Ctrl + F – Busca no arquivo atual
-
-Ctrl + Shift + F – Busca global
-
-Ctrl + P – Acessa qualquer arquivo rapidamente
-
-F2 - Renomeia variâveis com segurança
-
-Alt + Shift + ↓ – Duplica a linha
-
-Ctrl + B – Mostrar/ocultar a barra lateral
-
-Ctrl + D - Seleciona a próxima ocorrência da palavra
-
-Ctrl + ; – Comenta ou descomenta a linha
-****
-Ctrl + Shift + P – Abre a paleta de comandos
-
-Ctrl + Shift + X - Abre as extensões do vscode
-
-Ctrl + Space = Da a sugestão de auto complete
 
 ## ✏️ Edição de Código
 
@@ -63,7 +35,21 @@ Ctrl + Space = Da a sugestão de auto complete
 - **Alt + ↑ / ↓** → Mover linha para cima ou para baixo.
 - **Shift + Alt + ↑ / ↓ / T** → Duplicar linha ou seleção.
 - **Ctrl + Shift + K** → Excluir linha inteira.
-
+- **Alt + Shift + F – Formata o código inteiro
+- **Ctrl + \ – Divide o editor em painéis
+- **Ctrl + Shift + ‘ – Abre o terminal integrado
+- **Alt + ↑ / ↓ – Move a linha atual
+- **Ctrl + F – Busca no arquivo atual
+- **Ctrl + Shift + F – Busca global
+- **Ctrl + P – Acessa qualquer arquivo rapidamente
+- **Alt + Shift + ↓ – Duplica a linha
+- **Ctrl + B – Mostrar/ocultar a barra lateral
+- **Ctrl + D - Seleciona a próxima ocorrência da palavra
+- **Ctrl + ; – Comenta ou descomenta a linha
+****
+- **Ctrl + Shift + P – Abre a paleta de comandos
+- **Ctrl + Shift + X - Abre as extensões do vscode
+- **Ctrl + Space = Da a sugestão de auto complete
 ---
 
 ## 🔍 Busca e Substituição
