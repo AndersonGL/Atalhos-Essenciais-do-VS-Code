@@ -44,7 +44,6 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 - **Ctrl + P – Acessa qualquer arquivo rapidamente
 - **Alt + Shift + ↓ – Duplica a linha
 - **Ctrl + B – Mostrar/ocultar a barra lateral
-- **Ctrl + D - Seleciona a próxima ocorrência da palavra
 - **Ctrl + ; – Comenta ou descomenta a linha
 ****
 - **Ctrl + Shift + P – Abre a paleta de comandos
