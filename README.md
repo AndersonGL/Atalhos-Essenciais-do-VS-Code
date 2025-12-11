@@ -54,7 +54,43 @@ Ctrl + Shift + P – Abre a paleta de comandos
 
 Ctrl + Shift + X - Abre as extensões do vscode
 
- Ctrl + Space = Da a sugestão de auto complete
+Ctrl + Space = Da a sugestão de auto complete
+
+## ✏️ Edição de Código
+
+- **Ctrl + D** → Selecionar a próxima ocorrência da palavra.
+- **Alt + Click** → Criar múltiplos cursores.
+- **Alt + ↑ / ↓** → Mover linha para cima ou para baixo.
+- **Shift + Alt + ↑ / ↓ / T** → Duplicar linha ou seleção.
+- **Ctrl + Shift + K** → Excluir linha inteira.
+
+---
+
+## 🔍 Busca e Substituição
+
+- **Ctrl + F** → Buscar no arquivo atual.
+- **Ctrl + H** → Buscar e substituir no arquivo.
+- **Ctrl + Shift + F** → Buscar em todo o projeto.
+- **Ctrl + Shift + H** → Buscar e substituir no projeto inteiro.
+
+---
+
+## 📁 Gerenciamento de Código
+
+- **Ctrl + /** → Comentar / descomentar linha.
+- **Shift + Alt + A** → Comentar bloco.
+- **F2** → Renomear símbolo (variáveis, funções, etc.).
+- **Ctrl + Space** → Sugestão de código (IntelliSense).
+
+---
+
+## 🖥️ Terminal e Git
+
+- **Ctrl + `** → Abrir/fechar terminal integrado.
+- **Ctrl + Shift + G** → Abrir painel do Git.
+- **F5** → Iniciar depuração (Debug).
+
+---
 
 ## 🧹 Formatação
 
