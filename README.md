@@ -8,6 +8,11 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 ---
 
 ## ✂️ Edição de Código
+- **Busca por palavras no código**  
+  `Ctrl + F`,
+
+- **Comentar múltiplas linhas**  
+  `Ctrl + G`,
 
 - **Comentar múltiplas linhas**  
   `Ctrl + K`, depois `Ctrl + C`
