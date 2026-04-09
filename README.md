@@ -38,14 +38,14 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 - **Alt + ↑ / ↓** → Mover linha para cima ou para baixo.
 - **Shift + Alt + ↑ / ↓ / T** → Duplicar linha ou seleção.
 - **Ctrl + Shift + K** → Excluir linha inteira.
-- **Alt + Shift + F – Formata o código inteiro**
-- **Ctrl + \ – Divide o editor em painéis**
-- **Ctrl + Shift + ‘ – Abre o terminal integrado**
-- **Alt + ↑ / ↓ – Move a linha atual**
-- **Ctrl + F – Busca no arquivo atual
-- **Ctrl + Shift + F – Busca global
-- **Ctrl + P – Acessa qualquer arquivo rapidamente
-- **Alt + Shift + ↓ – Duplica a linha
+- **Alt + Shift + F** – Formata o código inteiro
+- **Ctrl + \  ** Divide o editor em painéis
+- **Ctrl + Shift + ‘ ** – Abre o terminal integrado
+- **Alt + ↑ / ↓ **– Move a linha atual
+- **Ctrl + F **– Busca no arquivo atual
+- **Ctrl + Shift + F **– Busca global
+- **Ctrl + P **– Acessa qualquer arquivo rapidamente
+- **Alt + Shift + ↓ **– Duplica a linha
 - **Ctrl + B – Mostrar/ocultar a barra lateral
 - **Ctrl + ; – Comenta ou descomenta a linha
 ****
