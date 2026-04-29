@@ -9,6 +9,10 @@ Aumente sua produtividade no Visual Studio Code com estes atalhos de teclado ind
 
 ## ✂️ Edição de Código
 
+
+- **Desabilitar pasta de baixo de pasta
+   ` `compactFolders em configurações e Desabilite`,
+
 - **Busca por número da linha**  
   `Ctrl + G`,
 
